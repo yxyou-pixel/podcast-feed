@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Podcast</title>
+    <link>https://yxyou-pixel.github.io/podcast-feed</link>
+    <description>A personalized AI-generated podcast.</description>
+    <language>en</language>
+    <atom:link href="https://yxyou-pixel.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    
+
+    <!-- Show artwork -->
+    <image>
+      <url>https://yxyou-pixel.github.io/podcast-feed/cover-art.png</url>
+      <title>My Podcast</title>
+      <link>https://yxyou-pixel.github.io/podcast-feed</link>
+    </image>
+    <itunes:image href="https://yxyou-pixel.github.io/podcast-feed/cover-art.png"/>
+
+    <!-- Podcast player metadata -->
+    <itunes:author>My Podcast</itunes:author>
+    <itunes:summary>A personalized AI-generated podcast.</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    
+  </channel>
+</rss>
