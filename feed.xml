@@ -6,7 +6,7 @@
     <title>My Podcast</title>
     <link>https://yxyou-pixel.github.io/podcast-feed</link>
     <description>A personalized AI-generated podcast.</description>
-    <language>en</language>
+    <language>zh</language>
     <atom:link href="https://yxyou-pixel.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
 
@@ -25,6 +25,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    
+    <item>
+      <title>置身钉内 · ONE 产品复盘</title>
+      <description>一份钉钉 ONE 项目的一线产品复盘，双人对谈，约 54 分钟。顺着发心、定位、设计、用户、敏捷、竞争六层，逐层拆解一款 AI 原生办公产品当时做了什么、哪里做对、哪里做错。改编自长文《置身钉内》。</description>
+      <pubDate>Tue, 23 Jun 2026 13:56:32 GMT</pubDate>
+      <enclosure url="https://yxyou-pixel.github.io/podcast-feed/episodes/2026-06-23-215137-1hour.mp3"
+                 length="52194786"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yxyou-pixel.github.io/podcast-feed/episodes/2026-06-23-215137-1hour.mp3</guid>
+      <itunes:duration>54:22</itunes:duration>
+      <itunes:summary>一份钉钉 ONE 项目的一线产品复盘，双人对谈，约 54 分钟。顺着发心、定位、设计、用户、敏捷、竞争六层，逐层拆解一款 AI 原生办公产品当时做了什么、哪里做对、哪里做错。改编自长文《置身钉内》。</itunes:summary>
+    </item>
     
   </channel>
 </rss>
